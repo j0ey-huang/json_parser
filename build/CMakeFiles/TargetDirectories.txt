@@ -1,3 +1,0 @@
-/home/hzj/Documents/c++/json_parser_cpp/build/CMakeFiles/rebuild_cache.dir
-/home/hzj/Documents/c++/json_parser_cpp/build/CMakeFiles/edit_cache.dir
-/home/hzj/Documents/c++/json_parser_cpp/build/CMakeFiles/test.dir
